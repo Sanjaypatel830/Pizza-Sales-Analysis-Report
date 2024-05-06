@@ -1,0 +1,47 @@
+*/ Project Description:
+
+The "Pizza Sales Analysis Dashboard" is a comprehensive data visualization tool developed using Power BI Desktop. It provides insights into the sales performance of a pizza store. Here are the key components:
+
+*/ Sales Overview: 
+
+The report presents a detailed overview of the store's revenue. Total revenue from pizza sales amounts to 817.9K, reflecting the financial performance of the store in terms of sales.
+
+Quantity Sold:
+A total of 48,621 pizzas were sold during the analyzed period, indicating the volume of pizzas sold by the store. This metric aids in understanding customer demand and optimizing inventory management.
+
+Total Orders:
+The store received 21,350 orders, showcasing the frequency of transactions within the specified timeframe.
+
+Average Pizzas per Order: 
+On average, customers ordered 2.32 pizzas per transaction. Understanding this average helps in assessing customer behavior and optimizing pricing strategies.
+
+*/ Key Performance Indicators (KPIs) and Charts:
+
+1. Orders by Day: Visualizes the distribution of orders over each day within the analyzed period.
+2. Orders by Month: Illustrates the trend of orders over months, providing insights into seasonal variations.
+3. % Sale by Pizza Category: Displays the contribution of each pizza category to total sales in percentage terms.
+4. % Pizza Sale by Pizza Size: Highlights the distribution of pizza sales based on different sizes.
+5. Pizza Category Performance: Analyzes the sales performance of different pizza categories, aiding in identifying popular choices among customers.
+
+*/ Power BI Second Page - Comparative Analysis:
+
+To further enhance decision-making, the second page of the dashboard provides comparative analysis through six additional charts:
+
+1. Top Best Performing Pizza Sales: Identifies the pizzas with the highest sales figures, helping to understand customer preferences and popular menu items.
+2. Top Best Performing Pizza by Quantity: Highlights pizzas that are sold in the highest quantities, indicating popular choices among customers.
+3. Top Best Performing Pizza by Order: Shows the pizzas that are ordered most frequently, providing insights into customer preferences and demand.
+4. Top Bottom Pizza Sales: Highlights pizzas with both the highest and lowest sales figures, aiding in identifying both popular and underperforming menu items.
+5. Top Bottom Pizza by Quantity: Analyzes pizzas with both the highest and lowest quantities sold, offering insights into customer preferences and market demand.
+6. Top Bottom Pizza Sale by Orders: Illustrates pizzas with both the highest and lowest number of orders, providing insights into customer preferences and popularity.
+
+*/ Project Goals:
+
+Performance Evaluation: Assess the sales performance of the pizza store based on revenue, quantity sold, and order frequency.
+Strategic Decision-Making: Utilize data-driven insights to make informed decisions regarding inventory management, pricing strategies, and marketing efforts.
+Forecasting and Planning: Leverage historical sales data to forecast future trends, enabling effective planning for inventory, promotions, and staffing.
+Meaningful Insights:
+Popular Pizza Choices: Identify the top-performing pizza categories and sizes to focus marketing efforts and inventory stocking accordingly.
+Sales Trends: Analyze sales trends by day, month, and category to uncover patterns and make proactive adjustments to business strategies.
+Customer Behavior: Understand customer preferences by examining average pizzas per order and adjust offerings to meet demand effectively.
+This comprehensive analysis empowers stakeholders to make informed decisions and drive the success of the pizza store.
+
